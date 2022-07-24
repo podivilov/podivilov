@@ -9,5 +9,5 @@
 - 💼 Technical Support Engineer at [Yandex Cloud](https://github.com/yandex-cloud)
 - ✨ Currently working on [Tatyana](https://github.com/dialoguemovement/tatyana)
 - 📫 How to reach me: [mikhail@podivilov.com](mailto:mikhail@podivilov.com)
-- 🔑 PGP public key: [`4435 E28E DEAD BEEF`](https://podivilov.com/downloads/pgp/E024E33211C904735D6D80714435E28EDEADBEEF.asc)
+- 🔑 PGP public key: [`4435 E28E DEAD BEEF`](https://raw.githubusercontent.com/podivilov/PGP/main/E024E33211C904735D6D80714435E28EDEADBEEF.asc)
 - 🇺🇦 I am against the war in Ukraine
